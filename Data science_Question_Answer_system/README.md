@@ -31,4 +31,3 @@ The GenAI App revolutionizes the way aspiring Data Scientists prepare for interv
 By combining the power of OpenAI with user-friendly design, it offers an innovative solution to the challenges faced by interviewees.
 With its interactive chatbot and comprehensive content, the GenAI App empowers users to excel in Data Science interviews and achieve their career goals.
 
-[![GenAI App Demo Video](https://github.com/DeeprajVadhwane/Generative_AI/blob/main/Data%20science_Question_Answer_system/AI%20ds%20interview.mp4)](https://github.com/DeeprajVadhwane/Generative_AI/blob/main/Data%20science_Question_Answer_system/AI%20ds%20interview.mp4)
