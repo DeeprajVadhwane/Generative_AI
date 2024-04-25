@@ -1,4 +1,4 @@
-# GenAI App - AI Code Analyzer
+# GenAI App - AI Code Reviewer App
 
 ## Objective
 
